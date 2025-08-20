@@ -20,6 +20,8 @@ Build an interactive dashboard for stakeholders.
 ✅ Provided a dynamic dashboard for better decision-making  
 ✅ Improved inventory, marketing, and delivery operations  
 
+## 📂 Files
+- [Download ShopNest_Dashboard.pbix](https://drive.google.com/file/d/1O9hqPXAgMXSVrprCDnwCLQlzAkFRhb-v/view?usp=drive_link) 
 
 ---
 
